@@ -10,6 +10,7 @@ This program is for finding Minimum Spanning Tree that will transform a undirect
 Instructions:
 ====================
 Before running the python file, it is necessary to install Python language software package "NetworkX". It can be installed by running the following command:
+
 			sudo apt-get install python-pip
 			sudo pip install networkx
 	
