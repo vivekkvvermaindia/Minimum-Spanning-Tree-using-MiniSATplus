@@ -32,6 +32,7 @@ input.txt
 ---------
 
 Contains the nodes, edges and weight of undirected graph. The input format should be as follows:
+
 	1. First line will be total number of nodes.
 	2. Second line will contains edges in increasing order of node numbers i.e. all the edges of first node then second node and so on.
 	3. Third line will contain the corresponding edge weight following the same order.
