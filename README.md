@@ -1,4 +1,4 @@
-Finding Minimum Spanning Tree of an Undirected Graph using MiniSAT+
+#Finding Minimum Spanning Tree of an Undirected Graph using MiniSAT+
 
 Description:
 ====================
